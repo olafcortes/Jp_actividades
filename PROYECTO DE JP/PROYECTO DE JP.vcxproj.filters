@@ -18,5 +18,22 @@
     <ClCompile Include="Examen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cuarto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jugador.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cuarto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jugador.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
